@@ -1,4 +1,4 @@
-株式会社 ソフトギア 採用ご担当者様へ
+ネイロ株式会社 採用ご担当者様へ
 
 お世話になります。
 静岡産業技術専門学校 ゲームクリエイト科の
@@ -9,8 +9,6 @@
 
 root
  |-Platra
- |-プラトレ_概要説明書 …ゲームの概要説明書です。
- |
  |--実行ファイル
  | |-Data
  |   |--Char           …ゲーム内で使用されるキャラクターモデルが入ってます。
@@ -34,33 +32,31 @@ root
  | |-gameData.txt       …ゲーム内のセーブデータ保存で使用されるファイルです。
  |
  |--マニュアル
- |  |-Platra.txt                  …ゲームの説明テキストです。
+ |  |-Platra.txt                  …ゲームの説明テキストで制作箇所も書いてあります。
  |  |-操作説明.txt                …ゲームの操作方法説明テキストです。
  |  |-Platra_作品紹介動画URL.txt  …ゲームの作品紹介動画を閲覧するためのURLがあります。
  |  
  |-Sweets Manufacturer
- |-Sweets Manufacturer_概要説明書 …ゲームの概要説明書です。
- |
  |--実行ファイル
- | |-Sweets Manufacturer_Data     …ゲーム内で使用されるアセットが入ってます。
+ | |-Sweets Manufacturer_Data    …ゲーム内で使用されるアセットが入ってます。
  |   |--StreamingAssets   
- |     |--collectFile.txt         …ゲーム内で使用される取得アイテム表示に使用するファイルです。
- | |--Sweets Manufacturer.exe     …このゲームのexeです。
+ |     |--collectFile.txt        …ゲーム内で使用される取得アイテム表示に使用するファイルです。
+ | |--Sweets Manufacturer.exe    …このゲームのexeです。
  |
  |--ソースコード
- | |-Assets                       …ゲーム内で使用されるアセットが入っています。
- |   |--StreamingAssets   
- |    |--collectFile.txt          …ゲーム内で使用される取得アイテム表示に使用するファイルです。
- | |-Sweets Manufacturer.sln 
+ | |-Sweets_Manufacturer
+ |  |-Assets                     …ゲーム内で使用されるアセットが入っています。
+ |    |--StreamingAssets   
+ |     |--collectFile.txt        …ゲーム内で使用される取得アイテム表示に使用するファイルです。
+ |    |-Script                   …ソースファイルが入っています。
+ |  |-Sweets Manufacturer.sln 
  |
  |--マニュアル
- |  |-SweetsManufacturer.txt                   …ゲームの説明テキストです。
+ |  |-SweetsManufacturer.txt                   …ゲームの説明テキストで担当箇所も書いてあります。
  |  |-操作説明.pdf                             …ゲームの操作方法説明PDFです。
  |  |-Sweets Manufacturer_作品紹介動画URL.txt  …ゲームの作品紹介動画を閲覧するためのURLがあります。
  |  
  |-Kuriderella
- |-栗デレラ_概要説明書 …ゲームの概要説明書です。
- |
  |--実行ファイル
  | |-Data
  |   |--image          …ゲーム内で使用される画像が入ってます。
@@ -80,7 +76,7 @@ root
  | |-scoreF.txt        …ゲーム内のランキング保存で使用されるファイルです。 
  |
  |--マニュアル
- |  |-Kuriderella.txt                   …ゲームの説明テキストです。
+ |  |-Kuriderella.txt                   …ゲームの説明テキストで制作箇所も書いてあります。
  |  |-操作説明.txt                      …ゲームの操作方法説明テキストです。
  |  |-Kuriderella_作品紹介動画URL.txt   …ゲームの作品紹介動画を閲覧するためのURLがあります。
 
